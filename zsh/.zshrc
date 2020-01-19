@@ -30,10 +30,4 @@ fi
 
 zplug load
 
-eval "$(pyenv init -)"
-NODEBREW_HOME=/usr/local/var/nodebrew/current
-export NODEBREW_HOME
-export NODEBREW_ROOT=/usr/local/var/nodebrew
-export PATH=$PATH:$NODEBREW_HOME/bin
-
 alias relogin='exec $SHELL -l'
