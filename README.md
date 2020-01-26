@@ -8,3 +8,10 @@ cd ~
 chmod +x setup.sh
 ./setup.sh
 ```
+
+### mac/setup.sh
+```
+cd ~
+chmod +x setup.sh
+./setup.sh
+```
